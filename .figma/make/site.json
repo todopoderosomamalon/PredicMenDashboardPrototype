@@ -1,0 +1,10 @@
+{
+  "description": "Dashboard for cafés to predict sales and inventory, manage orders, track climate alerts, and optimize stock across multiple branches efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
